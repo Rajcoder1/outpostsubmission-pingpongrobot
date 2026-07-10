@@ -15,3 +15,7 @@ I was also looking for parts and i've roughly decided what I'm planning on using
 - either custom or off the shelf motor controllers
 - 8x AA battery for power source
 
+# Day 2 (7/10/25): Designing the build + more ideas
+
+I was thinking that the robot should also be able to place the ball according to how the opponent is playing so it should be connected to a camera which can detect the play location and hit the ball opposite to the player location. Additionally, it should know when the ball has been hit to its side of the court.
+
