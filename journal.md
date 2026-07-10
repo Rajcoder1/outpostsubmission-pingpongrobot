@@ -13,4 +13,5 @@ I was also looking for parts and i've roughly decided what I'm planning on using
 - 3d printed shell
 - tube for the ping pong balls
 - either custom or off the shelf motor controllers
+- 8x AA battery for power source
 
