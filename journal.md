@@ -1,3 +1,4 @@
+
 mm/dd/yy format
 
 # Day 1 (7/9/25): Starting out (time spent 3 hours)
@@ -18,4 +19,6 @@ I was also looking for parts and i've roughly decided what I'm planning on using
 # Day 2 (7/10/25): Designing the build + more ideas
 
 I was thinking that the robot should also be able to place the ball according to how the opponent is playing so it should be connected to a camera which can detect the play location and hit the ball opposite to the player location. Additionally, it should know when the ball has been hit to its side of the court.
+
+<img width="430" height="504" alt="Screenshot 2026-07-11 at 6 16 27 PM" src="https://github.com/user-attachments/assets/b8585bb3-6581-497b-ab48-ca7b04078698" />
 
