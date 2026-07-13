@@ -62,8 +62,9 @@ Here is the final bom:
 - 2x [DC motor 12V](https://www.amazon.com/AUTOTOOLHOME-Torque-Traxxas-Wheels-Electric/dp/B01M58POHF/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_1_1/142-3738919-8988922?pd_rd_w=cI11X&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=KS914ZRRX66DD1SZYE5D&pd_rd_wg=xGBrP&pd_rd_r=d860e736-02ab-4be9-9de8-45b8fbe8bdae&pd_rd_i=B01M58POHF&psc=1) $13.78
 - 4x [high 55g torque servos](https://www.amazon.com/Hosyond-MG996R-Digital-Motors-Helicopter/dp/B0BYD9M1P3/ref=pd_lpo_d_sccl_1/142-3738919-8988922?pd_rd_w=GY3yi&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=NA9N97EKKA1KCF0VZVCP&pd_rd_wg=eLkzT&pd_rd_r=88d0f238-0f73-45bd-8654-424eb752af9b&pd_rd_i=B0BYD9M1P3&th=1) $17.99
 - 3x [esp32 devkit c v4](https://www.amazon.com/ESP32-DevKitC-32-Development-Supporting-Bluetooth-Interface/dp/B0DYDN5X1Z/ref=sr_1_11?crid=2DXP1KTKVEXMB&dib=eyJ2IjoiMSJ9.OxudVGZzwAljFhIXZMie6Nnr8FwdUEAeOxlJae2ITRBaLrNGPMIyCTf0e7cUAFXuPq0Mn7a0p7bpzz8c_f-UNgeFK1FM3cfe3FV2aFIXWnepVTECsvkHdpBfeStJxTpgtghA9WOWYI19rOhfxa8LWiW2F99n166f7Zp5-L2TXt8KwA26h1cmrngWDSoLlpaTMeM_7qUQ4JMvtkUYLDCi95cT7o-ng2qcMwGp93om2yY.o1TsEeZ6HNjEl-4MyaGxEqTIKg1abF1aayn9t6hDf9o&dib_tag=se&keywords=esp32+usb+c+38+pin&qid=1783924563&sprefix=esp32+usb+c+38+pi%2Caps%2C186&sr=8-11) $17.99
+- 1x [l298n motor controller](https://www.amazon.com/WWZMDiB-L298N-H-Bridge-Controller-Raspberry/dp/B0CR6BX5QL/ref=sr_1_3?crid=6LI07YPOBUO9&dib=eyJ2IjoiMSJ9.hK2FjV8Ukp8CCyVTI1seMk4n3aguoO_lNXX3xoiH-O1QTmDLXaCWLAh2vl76_39DxP9ahxHW-yV3cQz9Xdw9f1n6LlMNe8kHLXWIcPZWj6_riG9-fnBC31c6bleGAgTFQSe3EWouDU2Dlw-8HVQDDjsSnUnd1SILlwc5v8u672jLe3vad46JW6UUtpSk1Nm2fzInXYz9PqsMxVBQL6KxHDu4R5akQAj6UXQK017jnHo.eBd9FsvEzhrQyziTohEv6U6tppi3HGwuyHTn_ILEb1Q&dib_tag=se&keywords=l298n&qid=1783924800&sprefix=l298n%2Caps%2C215&sr=8-3&th=1) $6.98
 
-Total: $49.76
+Total: $57
 
 
 
