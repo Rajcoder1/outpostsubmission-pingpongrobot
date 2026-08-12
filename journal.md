@@ -55,7 +55,7 @@ This is the base plate with the servo
 
 <img width="338" height="460" alt="Screenshot 2026-07-12 at 11 25 25 PM" src="https://github.com/user-attachments/assets/8ea3a292-8e22-48ba-ac07-a273904d4c22" />
 
-Final design, the hopper is very light and design to counteract the torque of the 2 motors, making it easier for the servo to tilt the structure
+Final design, the hopper is very light and design to counteract the torque of the 2 motors, making it easier for the servo to tilt the structure. Additionally, we are adding imus to get a more precise measure of angle because these gears are prone to slipping
 
 Here is the final bom:
 
@@ -65,7 +65,8 @@ Here is the final bom:
 - 1x [l298n motor controller](https://www.amazon.com/WWZMDiB-L298N-H-Bridge-Controller-Raspberry/dp/B0CR6BX5QL/ref=sr_1_3?crid=6LI07YPOBUO9&dib=eyJ2IjoiMSJ9.hK2FjV8Ukp8CCyVTI1seMk4n3aguoO_lNXX3xoiH-O1QTmDLXaCWLAh2vl76_39DxP9ahxHW-yV3cQz9Xdw9f1n6LlMNe8kHLXWIcPZWj6_riG9-fnBC31c6bleGAgTFQSe3EWouDU2Dlw-8HVQDDjsSnUnd1SILlwc5v8u672jLe3vad46JW6UUtpSk1Nm2fzInXYz9PqsMxVBQL6KxHDu4R5akQAj6UXQK017jnHo.eBd9FsvEzhrQyziTohEv6U6tppi3HGwuyHTn_ILEb1Q&dib_tag=se&keywords=l298n&qid=1783924800&sprefix=l298n%2Caps%2C215&sr=8-3&th=1) $6.98
 - 1x [wire pack](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_9?crid=3JO4FSWIII2JM&dib=eyJ2IjoiMSJ9.Jo7R5LcaJDO_Xr34F-Vca1Uwiz_FTpmM6hOIiwkxirSPdt8QClLxnMYL-t2N3MLwZg0A6ux1_TBJwE1Y9p5kPOLVbsH1TpwiKlx0nfhDohyWRiuNeNHnRAbXjz_Qdfw0pszJw_Jby-jUG6Pa6yLXVp8vMWI3nKtai-BFl8vDOpwAUMefiVFb7g_S5y_ZkEsPOqpOJUdpb_BTQxAk9aFsRIL632GRNticp8FS54Gna46_beVQh5qGkrq61VT7-aprE5uMWvh2nBXUlOOojqIGU37GcD_Jg3Jw1Dzxvn2Wla0.7NBrw1BmY4rOEBlp6FX6_mD6i765kYczXFjRVF_N71o&dib_tag=se&keywords=wires&qid=1783924968&sprefix=wir%2Caps%2C273&sr=8-9&th=1) $6.98
 - [ping pong ball pack](https://www.amazon.com/Training-Practice-Christmas-Halloween-Decoration/dp/B0GFLYG8PV/ref=sxin_19_pa_sp_search_thematic-asin_sspa?content-id=amzn1.sym.01952dcc-27a0-49b0-a15c-8c40a4a78c0b%3Aamzn1.sym.01952dcc-27a0-49b0-a15c-8c40a4a78c0b&crid=3OCNP3MBB653Y&cv_ct_cx=ping%2Bpong%2Bballs&keywords=ping%2Bpong%2Bballs&pd_rd_i=B09W5PGB6Y&pd_rd_r=35fe8981-525e-4455-a5b2-c2cf792d567f&pd_rd_w=QborT&pd_rd_wg=sHgQm&pf_rd_p=01952dcc-27a0-49b0-a15c-8c40a4a78c0b&pf_rd_r=K2V511Q388GHWVR2G49V&qid=1783925349&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=ping%2Bpong%2Bbal%2Caps%2C212&sr=1-1-925d4041-2745-4edd-b995-62e9e595df4e-spons&aref=o9N3a1KJjn&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1) $8
-Total: $72
+- [IMU](https://www.amazon.com/KEAcvise-6-Pack-GY-521-MPU6050-Sensor/dp/B0F9DLNHTB/ref=sr_1_3?crid=23WOOPJ8S1Q1A&dib=eyJ2IjoiMSJ9.JDcbZpCWO1reu61ggCEfiWXzXXQck09dS9vPWf-GWZ_yYDHLwu844f48oXTvTVb0Hqy6L3rc4uo-l6oFAXcFndbhPMOi3rRyX9nCsRc87T7uplGpin9w7kcPGSiwTYVJegqRBSZQ0ucpTVSLVjg7LCaWRp4YJf6JAlubzjX6QVT6RdeYTHCIB06nFP5gEqraHy5JDAYDY_3tWW6s6J0EhQzyAo3EH1iH1aBUAQF3O1Q.S1hPsIDTiWOgYIU1LHaUu1RfhPxPIoiDtKQQNOjwgAw&dib_tag=se&keywords=imu&qid=1786568724&sprefix=imu%2Caps%2C258&sr=8-3) $18
+Total: $90
 
 
 
